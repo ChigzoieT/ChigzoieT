@@ -51,26 +51,6 @@ I welcome the opportunity to connect with fellow professionals and explore innov
 
 <a href="https://github.com/officialbube" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=officialbube&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Welcome
-
-I am Ebube Nkere Ebube, currently into Web Development. I am a web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
-
-<p>
-  
-  <a href="https://www.linkedin.com/in/ebube-nkere-ebube-37141b23a/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-  <a href="https://x.com/BubeDev">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-  <a>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-</p>
-
-
-### More About Me
-
-
-* 🌍  I'm based in Nigeria
-
-
-
 
 
 ### My Tech Stacks
