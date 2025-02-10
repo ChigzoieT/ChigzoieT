@@ -1,6 +1,10 @@
 ### Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), Welcome
 
-I am Odoegbulam ThankGod Chigozie, currently into Web Development. I am a web developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Odoegbulam ThankGod Chigozie, a seasoned polyglot software engineer with expertise in operating system internals, advanced software architecture, and innovative development methodologies. I specialize in cross-platform application design using Qt, native development with WinAPI and Android Java, and low-level programming in C. My proficiency in data structures and algorithms, coupled with experience designing efficient compression and decompression systems, is complemented by a comprehensive understanding of various operating system architectures.
+
+In addition, I excel in web technologies such as JavaScript, HTML, and CSS, developing scalable applications with Node.js and Next.js by leveraging libraries and algorithmic strategies to optimize performance and meet client requirements. I also have extensive experience with backend storage technologies—utilizing Firebase and MySQL with PHP for synchronization, while effectively managing user authentication and ensuring rigorous data sanitization. With a deep understanding of hardware architecture and its synchronization with operating systems, I consistently deliver robust, optimized solutions, employing tools like MinGW to streamline the development process.
+
+I welcome the opportunity to connect with fellow professionals and explore innovative collaborations.
 
 <p>
   
